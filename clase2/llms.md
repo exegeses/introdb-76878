@@ -9,4 +9,3 @@
 - Qwen (Alibaba Cloud)  
 - Llama (Meta)
 
-llmarena
