@@ -1,0 +1,33 @@
+producto,precio,"precio * 1.05",marca,categoria
+"Mouse Logitech MX Master 3",109.00,114.4500,Logitech,Accesorios
+"Parlante Bluetooth JBL Flip 6",119.00,124.9500,Sony,Accesorios
+"Disco SSD Samsung 1TB",119.00,124.9500,Samsung,Almacenamiento
+"Disco externo Seagate 2TB",89.99,94.4895,Samsung,Almacenamiento
+"Auriculares Sony WH-1000XM5",399.00,418.9500,Sony,Audio
+"Barra de sonido LG SN5Y",229.00,240.4500,LG,Audio
+"Cámara Logitech StreamCam",149.00,156.4500,Logitech,Cámaras
+"Cámara Canon EOS M50",699.00,733.9500,Sony,Cámaras
+"Procesador AMD Ryzen 7 5800X",329.99,346.4895,Samsung,"Componentes de PC"
+"Motherboard Asus B550M",149.00,156.4500,Asus,"Componentes de PC"
+"Kit domótica Philips Hue",199.00,208.9500,Philips,Domótica
+"Sensor de movimiento Xiaomi Mi",24.99,26.2395,Xiaomi,Domótica
+"Heladera Samsung No Frost",999.99,1049.9895,Samsung,Electrodomésticos
+"Lavarropas Bosch Serie 6",849.99,892.4895,Bosch,Electrodomésticos
+"Consola Sony PlayStation 5",599.00,628.9500,Sony,Gaming
+"Joystick Microsoft Xbox Series X",69.00,72.4500,Microsoft,Gaming
+"Enchufe inteligente TP-Link Tapo",29.99,31.4895,TP-Link,"Hogar Inteligente"
+"Cámara de seguridad Xiaomi Mi 360",54.99,57.7395,Xiaomi,"Hogar Inteligente"
+"Laptop Lenovo IdeaPad 3",749.99,787.4895,Lenovo,Laptops
+"Laptop HP Pavilion 15",829.00,870.4500,HP,Laptops
+"Teclado mecánico Asus ROG Strix",129.00,135.4500,Asus,Periféricos
+"Auriculares Gaming Asus TUF",89.99,94.4895,Asus,Periféricos
+"Router TP-Link AX1500",89.99,94.4895,TP-Link,Redes
+"Extensor de red TP-Link RE450",59.99,62.9895,TP-Link,Redes
+"Smartphone Xiaomi Redmi Note 12",299.99,314.9895,Xiaomi,Smartphones
+"Smartphone Samsung Galaxy S23",899.99,944.9895,Samsung,Smartphones
+"Microsoft Office 365 Personal",79.99,83.9895,Microsoft,Software
+"Windows 11 Home",129.00,135.4500,Microsoft,Software
+"iPad 10ª generación",499.99,524.9895,Apple,Tablets
+"Tablet Amazon Fire HD 10",149.99,157.4895,Amazon,Tablets
+"Televisor LG 55" OLED",1399.00,1468.9500,LG,Televisores
+"Smart TV Sony Bravia 65"",1799.00,1888.9500,Sony,Televisores
